@@ -6,8 +6,8 @@ const audio = document.getElementById("rickroll");
 
 // Change text, play sound, and show Rickroll gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "You got Rickrolled 😘 (FOLLOW ME @kristel_tech or 7 years bad luck)";
-  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1cW5wMWhpaDF5b3pjdTF0OHZrcHJvaGkzOHJteDhmd245OGRnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif";
+  question.innerHTML = "Claro que me amas!! Soy increíble! Te amo mucho mas!";
+  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRnbXYycXQ5ZGt2enMzYWRscmp6NDZvdjFtNXpwM29heHFqN2s3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8FbmKNAAw92tW/giphy.gif";
   audio.play();
 });
 
